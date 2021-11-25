@@ -1,6 +1,7 @@
 My Tech Skills
 
-HTML/HTML5
-CSS/SCSS
-JavaScript
-React.Js
+- HTML/HTML5
+- CSS/SCSS
+- JavaScript
+- React.Js
+- Git
